@@ -1017,7 +1017,7 @@ blockquote.gray.bg-theme-colored2 footer {
 }
 /* -------- Transparent bg Color ---------- */
 .bg-theme-colored2-transparent-9 {
-  background-color: rgba(242, 27, 81, 0.9) !important;
+  background-color:#002E5B !important;
 }
 .bg-theme-colored2-transparent-8 {
   background-color: rgba(242, 27, 81, 0.8) !important;
